@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chamiegei.rurac.eu/sitemap.xml
